@@ -15,7 +15,7 @@ return [
     */
 
     'title' => 'Aville Box',
-    'title_prefix' => '',
+    'title_prefix' => 'Aville Box | ',
     'title_postfix' => '',
 
     /*
