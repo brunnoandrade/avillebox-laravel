@@ -1,8 +1,3 @@
 {
-    "gitflow4code.features": [
-        {
-            "name": "feature/create-models-balances-historic",
-            "base": "develop"
-        }
-    ]
+    "gitflow4code.features": []
 }
